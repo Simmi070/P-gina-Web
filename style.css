@@ -119,3 +119,6 @@ footer p {
 body {
     background-color: #F5F7FA;
 }
+.card {
+    text-align: left;
+}
